@@ -77,13 +77,6 @@
         "country": "China"
     },
     {
-        "id": 24,
-        "name": "Amanda Lopez",
-        "age": "unique_age_24_3",
-        "city": "unique_city_Phoenix_1",
-        "country": "Mexico"
-    },
-    {
         "id": "unique_id_37_2",
         "name": "Matthew Gonzalez",
         "age": 37,
@@ -329,17 +322,17 @@
         "country": "unique_country_USA_1"
     },
     {
-        "id": 31,
-        "name": "Riley James",
-        "age": "unique_age_31_4",
-        "city": "unique_city_New York_1",
-        "country": "unique_country_Germany_1"
-    },
-    {
         "id": 24,
-        "name": "Harper Foster",
+        "name": "Harpe Foste",
         "age": "unique_age_24_3",
         "city": "unique_city_Houston_1",
         "country": "unique_country_Australia_1"
+    },
+    {
+        "id": 51,
+        "name": "Alexs Waton",
+        "age": "1000",
+        "city": "unique_city_San Francco_1",
+        "country": "unique_cntry_Japan_1"
     }
 ]
